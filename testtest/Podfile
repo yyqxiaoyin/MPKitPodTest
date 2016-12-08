@@ -1,6 +1,0 @@
-
-target 'testtest' do
-
-pod 'AFNetworking'
-
-end
